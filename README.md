@@ -23,3 +23,9 @@ Implemented selection of math/stat methods (envelope estimation, welch's power s
 Analyzed 180 GB of LFP data across 64 channels & combined computations into a function that detected ripples in hippocampus
 
 Lined up ripples with spikes
+
+## Data Visualization
+
+
+![Kholoud Data Visualization Example](https://github.com/Kholoud-i/Neural-Data-Analysis/assets/134650050/b15e87c0-506e-425f-8c6b-b4cc9028cb4d)
+

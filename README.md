@@ -1,4 +1,4 @@
-# Neural-Data-Analysis
+# Neural Data Analysis of Local Field Potentials
 
 
 ## The Data
